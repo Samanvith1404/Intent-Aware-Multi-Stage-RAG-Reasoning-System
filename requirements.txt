@@ -1,0 +1,4 @@
+groq
+weaviate-client
+openai
+pyyaml
